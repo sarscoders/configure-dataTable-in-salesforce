@@ -2,6 +2,7 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
         <members>ConfigurableDatatable</members>
+        <members>CreateUpdateMetadata</members>
         <members>ConfigurableDatatable_Test</members>
         <name>ApexClass</name>
     </types>
